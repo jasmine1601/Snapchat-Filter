@@ -1,2 +1,2 @@
-# Snapchat-Filter
+# Snapchat Filter
 Creating Snapchat like face filters.
