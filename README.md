@@ -1,2 +1,4 @@
 # Snapchat Filter
-Creating Snapchat like face filters.
+
+* **Aim :** Creating Snapchat-like face filters
+* **Model :** Cascade Classifier (Haar feature-based)
